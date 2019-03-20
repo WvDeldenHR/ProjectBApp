@@ -10,6 +10,8 @@
     <!-- Task Bar Color-->
         <color name="colorPrimaryDark">#</color>
 
-    <!-- Bottom Navigation Bar Color -->
-        <color name = "testje">#moguh</color>
+    <!-- Bottom Navigation Bar -->
+        <!-- Bottom Navigation Bar BackgrounD Color -->
+        <color name="colorBottomNavigationBackground">#E1E1E1</color>
+
 </resources>
