@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">ProjectB</string>
+
     <!-- Bottom Navigation Bar -->
-        <string name="title_home">Home</string>
-        <string name="title_dashboard">Dashboard</string>
-        <string name="title_notifications">Notifications</string>
+        <string name="titleHome">Home</string>
+        <string name="titleNews">Nieuws</string>
+        <string name="titleCalendar">Kalender</string>
+        <string name="titleMaps">Maps</string>
 </resources>
-dsjffhjfhjd
